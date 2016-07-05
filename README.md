@@ -28,7 +28,6 @@
 	
 8 - Execute o gulp para instalar o projeto:
 
-
 	gulp
 	
 9 - A instalação foi feita na past "dist" do diretório do projeto			
